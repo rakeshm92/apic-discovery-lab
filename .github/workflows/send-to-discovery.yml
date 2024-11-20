@@ -3,7 +3,7 @@ name: Send Discovered API to ApiConnect
 on: [pull_request, workflow_dispatch, push]
 
 env:
-  API_HOST: tj-isa-1-420eb34f056ae68f3969289d61f61851-0000.jp-tok.containers.appdomain.cloud
+  API_HOST: tj-isa-2-420eb34f056ae68f3969289d61f61851-0000.jp-tok.containers.appdomain.cloud
   PROVIDER_ORG: tech-jam-18
   API_FILES: APIfolder/photos.yaml
   PLATFORM_API_PREFIX: api-manage-456a0068-platform-api-tech-jam-apic
